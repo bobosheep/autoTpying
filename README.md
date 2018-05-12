@@ -1,0 +1,2 @@
+# autoTpying
+auto type bot
